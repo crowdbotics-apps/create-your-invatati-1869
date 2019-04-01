@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT create_your_invatati_1869.wsgi:application
